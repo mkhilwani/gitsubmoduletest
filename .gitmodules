@@ -1,0 +1,9 @@
+[submodule "TestRepo"]
+	path = TestRepo
+	url = git@github.com:mkhilwani/TestRepo.git
+[submodule "laravel_sample_code"]
+	path = laravel_sample_code
+	url = https://github.com/mkhilwani/laravel_sample_code.git
+[submodule "test"]
+	path = test
+	url = https://github.com/mkhilwani/test.git
